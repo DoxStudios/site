@@ -72,6 +72,10 @@ html {
   text-decoration: none;
 }
 
+.center {
+  text-align: center;
+}
+
 #dox {
   display: block;
 }
